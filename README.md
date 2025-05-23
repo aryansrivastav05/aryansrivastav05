@@ -1,7 +1,7 @@
-
+![logo](https://github.com/aryansrivastav05/aryansrivastav05/blob/master/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img width="400" align="right" src="https://png.pngtree.com/thumb_back/fh260/background/20250120/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16934156.jpg" alt="">
+<!-- <img width="400" align="right" src="https://png.pngtree.com/thumb_back/fh260/background/20250120/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16934156.jpg" alt=""> -->
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=aryansrivastav05&label=Profile%20views&color=0e75b6&style=flat" alt="aryansrivastav05" /> </p>
 
