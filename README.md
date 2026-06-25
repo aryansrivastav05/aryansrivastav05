@@ -1,7 +1,7 @@
 ![logo](https://github.com/aryansrivastav05/aryansrivastav05/blob/master/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
-<h3 align="center">Java Backend Developer at Highspring India | Passionate Software Engineer from India</h3>
+<h3 align="center">Java Backend Developer at Highspring India | Passionate Software Engineer </h3>
 
 <!-- <img width="400" align="right" src="https://png.pngtree.com/thumb_back/fh260/background/20250120/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16934156.jpg" alt=""> -->
 
@@ -17,7 +17,7 @@
 
 - 💼 I'm currently working as a **Java Backend Developer at Highspring India**
 
-- 🌱 I'm currently learning **Spring Boot, Microservices, System Design, and Full Stack Web Development using Django**
+- 🌱 I'm currently learning **Spring Boot, Microservices, System Design, Devops**
 
 - 👨‍💻 All of my projects are available at **https://linktr.ee/aryansrivastav05**
 
